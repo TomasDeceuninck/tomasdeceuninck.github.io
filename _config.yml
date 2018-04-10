@@ -1,0 +1,18 @@
+title:             Memory Extension
+email:             tomas.deceuninck@gmail.com
+description:       An attempt to extend my memory and maybe help somebody along the way.
+author:            Tomas Deceuninck
+baseurl:           ""
+url:               "http://tomasdeceuninck.github.io"
+
+# Social Profiles
+twitter_username:  TomasToday
+github_username:   TomasDeceuninck
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
