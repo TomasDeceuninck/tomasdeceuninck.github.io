@@ -5,6 +5,7 @@ subtitle: "and visa versa"
 date:   2018-04-09
 tags: PowerShell
 background: '/img/posts/default.jpg'
+comments: true
 ---
 
 For the hundredth time I Googled how to convert String to DateTime.

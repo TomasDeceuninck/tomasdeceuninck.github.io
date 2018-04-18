@@ -5,6 +5,7 @@ subtitle: "and it's project"
 date:   2018-04-17
 tags: PowerShell
 background: '/img/posts/default.jpg'
+comments: true
 ---
 
 Since I started developing with PowerShell I've been reading and testing several module structures.

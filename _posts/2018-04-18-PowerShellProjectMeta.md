@@ -5,6 +5,7 @@ subtitle: ""
 date:   2018-04-18
 tags: PowerShell
 background: '/img/posts/default.jpg'
+comments: true
 ---
 
 When starting out with PowerShell you copy random stuff from the web to your shell.
