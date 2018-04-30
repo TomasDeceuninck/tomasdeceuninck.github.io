@@ -17,7 +17,7 @@ I also created a [Plaster](https://github.com/PowerShell/Plaster){:target="_blan
 
 ## Project structure
 
-I want to discuss the entire project folder structure because serval PowerShell-Project essentials are not placed in the Module that is distributed.
+I want to discuss the entire project folder structure because several PowerShell-Project essentials are not placed in the Module that is distributed.
 
 The project consists of several building blocks, some of which could be considered optional:
 

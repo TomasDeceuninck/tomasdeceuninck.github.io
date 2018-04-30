@@ -42,7 +42,7 @@ The possible modifications and extensions are really good and I don't see any ot
 
 Once you start writing more scripts and tackling more complex problems you will need to start writing Modules.
 
-I am not going into detail as to why and how you can build a module because this has been too extensively documented before. (My favorite article about this is Michael Sorens' [Further down the rabit hole](https://www.red-gate.com/simple-talk/dotnet/net-tools/further-down-the-rabbit-hole-powershell-modules-and-encapsulation/){:target="_blank"})
+I am not going into detail as to why and how you can build a module because this has been too extensively documented before. (My favorite article about this is Michael Sorens' [Further down the rabbit hole](https://www.red-gate.com/simple-talk/dotnet/net-tools/further-down-the-rabbit-hole-powershell-modules-and-encapsulation/){:target="_blank"})
 
 I will, however, go into the details of [the structure I use for my PowerShell modules (and projects)]({{ site.url }}/2018/04/17/PowerShellModuleStructure){:target="_blank"}.
 
